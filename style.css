@@ -1,0 +1,59 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+
+.header {
+    padding-top: 120px;
+    font-size: 70px;
+    color: #d896ff;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.timeContainer {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.container-second {
+    padding: 60px; 
+    padding-top: 80px;
+}
+.container-minute {
+    padding: 60px;
+    padding-top: 80px;
+}
+.container-hour {
+    padding: 60px;
+    padding-top: 80px;
+}
+.container-day {
+    padding: 60px;
+    padding-top: 80px;
+}
+
+.labelSecond {
+    color: #800080;
+    font-size: 25px;
+}
+.labelMinute {
+    color: #800080;
+    font-size: 25px;
+}
+.labelHour {
+    color: #800080;
+    font-size: 25px;
+}
+.labelDay {
+    color: #800080;
+    font-size: 25px;
+}
+.timeSecond, 
+.timeMinute, 
+.timeHour,
+.timeDay {
+    color: #be29ec;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+}
